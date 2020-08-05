@@ -2,4 +2,5 @@
     <string name="app_name">AndroidDraft</string>
     <string name="add">Add</string>
     <string name="remove">Remove</string>
+    <string name="send_data">send Data</string>
 </resources>
